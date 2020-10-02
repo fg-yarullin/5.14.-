@@ -7,7 +7,7 @@
 <p align="center"><img src="./assets/Git-logo.svg" width="200"></p>
 
 <p align="center">
-| <a href="https://ru.wikipedia.org/wiki/Git">Wikipedia</a> | <a href="https://github.com/">Wikipedia</a> |
+| <a href="https://ru.wikipedia.org/wiki/Git">Wikipedia</a> | <a href="https://github.com/">GitHub</a> |
 </p>
 
 ---
